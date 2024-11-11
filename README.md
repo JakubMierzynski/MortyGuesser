@@ -6,10 +6,10 @@ Projekt MortyGuesser to wciągająca gra dla fanów Ricka i Morty’ego, w któr
 
 Stack technologiczny:
   
-  -Rick&Morty API – pobieranie danych postaci
-	-	React – interaktywny frontend
-	-	Redux – zarządzanie stanem aplikacji
-	-	CSS – dostosowanie stylów
+  - Rick&Morty API – pobieranie danych postaci
+  - React – interaktywny frontend
+  - Redux – zarządzanie stanem aplikacji
+  - CSS – dostosowanie stylów
 
 Uwaga: Główna idea projektu to demonstracja umiejętności backendowych, więc frontend jest zaprojektowany minimalistycznie, by skupić uwagę na logice aplikacji.
 
@@ -20,9 +20,9 @@ The MortyGuesser project is an engaging game for Rick and Morty fans, where play
 Tech Stack:
 
   - Rick & Morty API – fetching character data
-	- React – interactive frontend
+  - React – interactive frontend
   - Redux – application state management
-	- CSS – styling adjustments
+  - CSS – styling adjustments
 
 Note: The main purpose of this project is to demonstrate backend skills, so the frontend is designed to be minimalistic and likely contains some errors or non-optimal solutions.
 
